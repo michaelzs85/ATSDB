@@ -19,6 +19,9 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 message("  Platform: Linux")
 add_definitions ( -Wall -std=c++11)
 
+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
+conan_basic_setup()
+
 find_package(Qt5Widgets)
 find_package(Qt5Core)
 find_package(Qt5OpenGL)
@@ -30,14 +33,14 @@ set(CMAKE_AUTOMOC ON)
 #add_definitions(${Qt5Widgets_DEFINITIONS})
 #set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${Qt5Widgets_EXECUTABLE_COMPILE_FLAGS}")
 
-find_package ( Boost REQUIRED COMPONENTS regex system program_options filesystem iostreams)
+find_package ( Boost REQUIRED)
 message("  Boost_INCLUDE_DIR: ${Boost_INCLUDE_DIR}")
 message("  Boost_LIBRARY_DIR: ${Boost_LIBRARY_DIR}")
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH};${ATSDB_PATH}/cmake_modules)
 message("  CMAKE_MODULE_PATH: ${CMAKE_MODULE_PATH}") 
 
-find_package (Eigen3 3.2 REQUIRED)
+find_package (Eigen3 3.3 REQUIRED)
 
 find_package ( MySQLpp REQUIRED )
 message("  MySQLpp_INCLUDE_DIR: ${MySQLpp_INCLUDE_DIR}") 
