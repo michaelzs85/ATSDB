@@ -19,7 +19,7 @@
 #ifndef DBOVARIABLEWIDGET_H_
 #define DBOVARIABLEWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <map>
 
 class QLineEdit;

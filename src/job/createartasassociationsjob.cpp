@@ -13,7 +13,7 @@
 
 #include "stringconv.h"
 
-#include <QThread>
+#include <QtCore/QThread>
 
 #include <algorithm>
 #include <math.h>

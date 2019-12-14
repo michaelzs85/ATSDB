@@ -20,7 +20,7 @@
 
 #include <string>
 #include <vector>
-#include <QObject>
+#include <QtCore/QObject>
 
 #include "global.h"
 #include "property.h"

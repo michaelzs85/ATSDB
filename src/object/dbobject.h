@@ -19,7 +19,7 @@
 #define DBOBJECT_H_
 
 #include <string>
-#include <qobject.h>
+#include <QtCore/QObject>
 #include <memory>
 
 #include "global.h"

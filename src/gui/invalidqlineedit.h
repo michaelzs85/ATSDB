@@ -1,7 +1,7 @@
 #ifndef INVALIDQLINEEDIT_H
 #define INVALIDQLINEEDIT_H
 
-#include <QLineEdit>
+#include <QtWidgets/QLineEdit>
 
 class InvalidQLineEdit : public QLineEdit
 {

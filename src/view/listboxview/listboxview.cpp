@@ -26,7 +26,7 @@
 #include "atsdb.h"
 #include "dbobjectmanager.h"
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 ListBoxView::ListBoxView(const std::string& class_id, const std::string& instance_id, ViewContainer *w,
                          ViewManager &view_manager)

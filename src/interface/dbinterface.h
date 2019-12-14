@@ -18,10 +18,10 @@
 #ifndef DBINTERFACE_H_
 #define DBINTERFACE_H_
 
-#include <QMutex>
+#include <QtCore/QObject>
+#include <QtCore/QMutex>
 #include <set>
 #include <memory>
-#include <qobject.h>
 
 #include "configurable.h"
 #include "propertylist.h"

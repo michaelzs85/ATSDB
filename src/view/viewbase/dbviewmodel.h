@@ -5,7 +5,7 @@
 #include "ViewModel.h"
 #include "Global.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 
 class DBView;
 class Buffer;

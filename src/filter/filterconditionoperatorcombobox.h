@@ -18,8 +18,8 @@
 #ifndef FILTERCONDITIONOPERATORCOMBOBOX_H_
 #define FILTERCONDITIONOPERATORCOMBOBOX_H_
 
-#include <QComboBox>
-#include <QList>
+#include <QtWidgets/QComboBox>
+#include <QtCore/QList>
 
 class FilterConditionOperatorComboBox : public QComboBox
 {

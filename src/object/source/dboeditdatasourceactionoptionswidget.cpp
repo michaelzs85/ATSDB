@@ -18,9 +18,9 @@
 #include "dboeditdatasourceactionoptionswidget.h"
 #include "logger.h"
 
-#include <QHBoxLayout>
-#include <QCheckBox>
-#include <QComboBox>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QComboBox>
 
 DBOEditDataSourceActionOptionsWidget::DBOEditDataSourceActionOptionsWidget(DBOEditDataSourceActionOptions& options,
                                      QWidget* parent, Qt::WindowFlags f)

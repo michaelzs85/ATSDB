@@ -15,8 +15,8 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QWidget>
-#include <QVBoxLayout>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QVBoxLayout>
 
 #include <cassert>
 

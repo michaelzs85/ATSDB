@@ -18,7 +18,7 @@
 #ifndef DBTABLEEDITWIDGET_H_
 #define DBTABLEEDITWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include "configurable.h"
 

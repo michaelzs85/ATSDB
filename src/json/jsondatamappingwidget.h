@@ -18,7 +18,7 @@
 #ifndef JSONDATAMAPPINGWIDGET_H
 #define JSONDATAMAPPINGWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class JSONDataMapping;
 

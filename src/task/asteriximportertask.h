@@ -25,7 +25,7 @@
 #include "jsonmappingjob.h"
 #include "jsonmappingstubsjob.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 
 #include <memory>
 

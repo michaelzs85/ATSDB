@@ -15,8 +15,8 @@
 
 #include <sstream>
 
-#include <QMessageBox>
-#include <QApplication>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QApplication>
 
 using namespace std;
 using namespace Utils;

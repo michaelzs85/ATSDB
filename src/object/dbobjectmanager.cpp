@@ -30,7 +30,7 @@
 #include "stringconv.h"
 #include "viewmanager.h"
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 using namespace Utils::String;
 

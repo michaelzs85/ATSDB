@@ -18,7 +18,7 @@
 #ifndef PROJECTIONMANAGERWIDGET_H_
 #define PROJECTIONMANAGERWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class QLineEdit;
 class QLabel;

@@ -18,7 +18,7 @@
 #ifndef CLIENT_H_
 #define CLIENT_H_
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 //namespace ATSDB
 //{

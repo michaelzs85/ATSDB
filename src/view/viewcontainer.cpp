@@ -35,12 +35,12 @@
 #include "osgview.h"
 #endif
 
-#include <QHBoxLayout>
-#include <QPushButton>
-#include <QMenu>
-#include <QTabBar>
-#include <QTabWidget>
-#include <QInputDialog>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QMenu>
+#include <QtWidgets/QTabBar>
+#include <QtWidgets/QTabWidget>
+#include <QtWidgets/QInputDialog>
 
 unsigned int ViewContainer::view_count_=0;
 

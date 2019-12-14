@@ -19,7 +19,7 @@
 #define DBSCHEMAMANAGER_H_
 
 #include "configurable.h"
-#include <qobject.h>
+#include <QtCore/QObject>
 
 class ATSDB;
 class DBSchema;

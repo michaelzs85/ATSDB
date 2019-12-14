@@ -25,14 +25,14 @@
 #include "unitselectionwidget.h"
 #include "dbovariable.h"
 
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QCheckBox>
-#include <QLineEdit>
-#include <QPushButton>
-#include <QScrollArea>
-#include <QMessageBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QScrollArea>
+#include <QtWidgets/QMessageBox>
 
 using namespace Utils;
 

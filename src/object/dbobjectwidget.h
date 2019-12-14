@@ -18,7 +18,7 @@
 #ifndef DBOBJECTEDITWIDGET_H_
 #define DBOBJECTEDITWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <map>
 
 class QLineEdit;

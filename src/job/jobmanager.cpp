@@ -15,9 +15,9 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <qtimer.h>
-#include <QThreadPool>
-#include <QCoreApplication>
+#include <QtCore/QTimer>
+#include <QtCore/QThreadPool>
+#include <QtCore/QCoreApplication>
 
 #include "jobmanager.h"
 #include "jobmanagerwidget.h"

@@ -18,7 +18,7 @@
 #ifndef DBFILTERCONDITION_H_
 #define DBFILTERCONDITION_H_
 
-#include <QObject>
+#include <QtCore/QObject>
 #include <cassert>
 
 #include "configurable.h"

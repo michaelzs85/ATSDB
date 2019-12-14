@@ -18,7 +18,7 @@
 #ifndef VIEWMODEL_H
 #define VIEWMODEL_H
 
-#include <QObject>
+#include <QtCore/QObject>
 
 #include <map>
 

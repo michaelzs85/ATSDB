@@ -22,7 +22,7 @@
 #include "configurable.h"
 #include "dbovariableset.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 
 class ViewContainer;
 class ViewModel;

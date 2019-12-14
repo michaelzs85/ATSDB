@@ -23,7 +23,7 @@
 #include "jsonparsingschema.h"
 #include "readjsonfilepartjob.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 
 #include <memory>
 

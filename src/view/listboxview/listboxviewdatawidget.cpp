@@ -15,9 +15,9 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QTabWidget>
-#include <QHBoxLayout>
-#include <QMessageBox>
+#include <QtWidgets/QTabWidget>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QMessageBox>
 
 #include "allbuffertablewidget.h"
 #include "buffertablewidget.h"

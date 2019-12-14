@@ -15,10 +15,10 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QVBoxLayout>
-#include <QLabel>
-#include <QPushButton>
-#include <QGridLayout>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QGridLayout>
 
 #include "jobmanagerwidget.h"
 #include "jobmanager.h"

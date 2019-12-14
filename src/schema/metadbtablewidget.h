@@ -18,7 +18,7 @@
 #ifndef METADBTABLEEDITWIDGET_H_
 #define METADBTABLEEDITWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <map>
 
 class MetaDBTable;

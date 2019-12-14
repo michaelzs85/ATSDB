@@ -18,7 +18,7 @@
 #ifndef VIEWMANAGER_H_
 #define VIEWMANAGER_H_
 
-#include <QObject>
+#include <QtCore/QObject>
 
 #include "dbovariableset.h"
 #include "configurable.h"

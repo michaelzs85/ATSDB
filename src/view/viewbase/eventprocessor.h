@@ -18,10 +18,10 @@
 #ifndef EVENTPROCESSOR_H
 #define EVENTPROCESSOR_H
 
-#include <QMouseEvent>
-#include <QKeyEvent>
-#include <QWheelEvent>
-#include <QWidget>
+#include <QtGui/QMouseEvent>
+#include <QtGui/QKeyEvent>
+#include <QtGui/QWheelEvent>
+#include <QtWidgets/QWidget>
 
 
 /**

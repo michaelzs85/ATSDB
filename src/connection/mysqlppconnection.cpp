@@ -39,11 +39,11 @@
 #include <iostream>
 #include <fstream>
 
-#include <QMessageBox>
-#include <QProgressDialog>
-#include <QMessageBox>
-#include <QCoreApplication>
-#include <QApplication>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QProgressDialog>
+#include <QtWidgets/QMessageBox>
+#include <QtCore/QCoreApplication>
+#include <QtWidgets/QApplication>
 
 using namespace Utils;
 

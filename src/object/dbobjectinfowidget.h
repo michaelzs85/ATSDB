@@ -18,7 +18,7 @@
 #ifndef DBOBJECTINFOWIDGET_H_
 #define DBOBJECTINFOWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <map>
 
 class QLabel;

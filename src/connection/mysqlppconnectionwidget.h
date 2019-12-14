@@ -18,8 +18,9 @@
 #ifndef MYSQLPPCONNECTIONWIDGET_H
 #define MYSQLPPCONNECTIONWIDGET_H
 
-#include <QWidget>
-#include <QMenu>
+#include <QtCore/QObject>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QMenu>
 
 class MySQLppConnection;
 class QComboBox;

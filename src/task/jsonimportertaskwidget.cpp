@@ -27,18 +27,18 @@
 #include "dbobject.h"
 #include "selectdbobjectdialog.h"
 
-#include <QVBoxLayout>
-#include <QFormLayout>
-#include <QLabel>
-#include <QPushButton>
-#include <QFileDialog>
-#include <QMessageBox>
-#include <QListWidget>
-#include <QCheckBox>
-#include <QLineEdit>
-#include <QFrame>
-#include <QInputDialog>
-#include <QStackedWidget>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QFormLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QFileDialog>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QListWidget>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QStackedWidget>
 
 using namespace Utils;
 

@@ -21,7 +21,7 @@
 #include <vector>
 #include <set>
 //#include <OGRE/Ogre.h>
-#include <QObject>
+#include <QtCore/QObject>
 
 #include "singleton.h"
 //#include "DisplayObject.h"

@@ -22,15 +22,15 @@
 #include "dbobject.h"
 #include "atsdb.h"
 
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QComboBox>
-#include <QPushButton>
-#include <QLabel>
-#include <QInputDialog>
-#include <QStackedWidget>
-#include <QFileDialog>
-#include <QMessageBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QStackedWidget>
+#include <QtWidgets/QFileDialog>
+#include <QtWidgets/QMessageBox>
 
 MySQLppConnectionWidget::MySQLppConnectionWidget(MySQLppConnection &connection, QWidget *parent)
     : QWidget(parent), connection_(connection)

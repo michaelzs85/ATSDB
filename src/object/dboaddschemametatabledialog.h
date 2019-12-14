@@ -25,11 +25,11 @@
 #include "dbschemaselectioncombobox.h"
 #include "metadbtable.h"
 
-#include <QDialogButtonBox>
-#include <QGridLayout>
-#include <QComboBox>
-#include <QLabel>
-#include <QDialog>
+#include <QtWidgets/QDialogButtonBox>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QDialog>
 
 #include <cassert>
 

@@ -15,7 +15,7 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QThread>
+#include <QtCore/QThread>
 
 #include "finalizedboreadjob.h"
 #include "dbobject.h"

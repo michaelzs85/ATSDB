@@ -21,7 +21,7 @@
 #include "configurable.h"
 #include "dbodatasource.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 #include <memory>
 
 class Buffer;

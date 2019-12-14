@@ -18,7 +18,7 @@
 #ifndef JSONIMPORTERTASKWIDGET_H
 #define JSONIMPORTERTASKWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class JSONImporterTask;
 class RadarPlotPositionCalculatorTask;

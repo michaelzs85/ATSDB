@@ -20,13 +20,13 @@
 #include "mysqlppconnection.h"
 #include "mysqlserver.h"
 
-#include <QVBoxLayout>
-#include <QLineEdit>
-#include <QPushButton>
-#include <QLabel>
-#include <QComboBox>
-#include <QInputDialog>
-#include <QMessageBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QMessageBox>
 
 MySQLServerWidget::MySQLServerWidget(MySQLppConnection& connection, MySQLServer& server, QWidget* parent)
     : QWidget (parent), connection_(connection), server_(server)

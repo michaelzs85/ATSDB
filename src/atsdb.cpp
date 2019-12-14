@@ -35,7 +35,7 @@
 #include "projectionmanager.h"
 
 #include <boost/date_time/posix_time/posix_time.hpp>
-#include <qobject.h>
+#include <QtCore/QObject>
 
 using namespace std;
 

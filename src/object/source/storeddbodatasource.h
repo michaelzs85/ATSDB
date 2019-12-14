@@ -23,7 +23,7 @@
 #include <string>
 #include <memory>
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class DBObject;
 class DBODataSource;

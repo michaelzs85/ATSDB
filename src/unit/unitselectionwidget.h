@@ -18,8 +18,8 @@
 #ifndef UNITSELECTIONWIDGET_H_
 #define UNITSELECTIONWIDGET_H_
 
-#include <QPushButton>
-#include <QMenu>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QMenu>
 
 /**
  * @brief Sets a Unit using a context menu

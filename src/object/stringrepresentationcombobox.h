@@ -18,7 +18,7 @@
 #ifndef STRINGREPRESENTATIONCOMBOBOX_H_
 #define STRINGREPRESENTATIONCOMBOBOX_H_
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 #include <stdexcept>
 
 #include "global.h"

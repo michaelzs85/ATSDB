@@ -15,12 +15,12 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QVBoxLayout>
-#include <QPushButton>
-#include <QCheckBox>
-#include <QLineEdit>
-#include <QLabel>
-#include <QMessageBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QMessageBox>
 
 #include "dbobjectmanager.h"
 #include "dbovariableorderedsetwidget.h"

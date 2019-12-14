@@ -18,10 +18,10 @@
 #include "dbolabeldefinitionwidget.h"
 #include "dbovariable.h"
 
-#include <QTableWidget>
-#include <QTableWidgetItem>
-#include <QVBoxLayout>
-#include <QLabel>
+#include <QtWidgets/QTableWidget>
+#include <QtWidgets/QTableWidgetItem>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QLabel>
 
 
 DBOLabelDefinitionWidget::DBOLabelDefinitionWidget(DBOLabelDefinition* definition)

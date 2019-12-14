@@ -18,7 +18,7 @@
 #ifndef DBOLABELDEFINITION_H
 #define DBOLABELDEFINITION_H
 
-#include <QObject>
+#include <QtCore/QObject>
 #include <list>
 #include <memory>
 

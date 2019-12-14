@@ -2,7 +2,7 @@
 #define CREATEARTASASSOCIATIONSTASKWIDGET_H
 
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class CreateARTASAssociationsTask;
 class QPushButton;

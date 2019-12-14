@@ -18,7 +18,7 @@
 #ifndef DATASOURCESFILTERWIDGET_H_
 #define DATASOURCESFILTERWIDGET_H_
 
-#include <QMenu>
+#include <QtWidgets/QMenu>
 
 #include "dbfilterwidget.h"
 #include "datasourcesfilter.h"

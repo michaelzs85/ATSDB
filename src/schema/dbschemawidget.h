@@ -19,8 +19,8 @@
 #ifndef DBSCHEMAWIDGET_H_
 #define DBSCHEMAWIDGET_H_
 
-#include <QWidget>
-#include <QDialog>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QDialog>
 #include <map>
 
 class QCheckBox;

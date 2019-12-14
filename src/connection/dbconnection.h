@@ -21,7 +21,7 @@
 #include <memory>
 #include "configurable.h"
 
-#include <qobject.h>
+#include <QtCore/QObject>
 
 class DBCommand;
 class DBCommandList;

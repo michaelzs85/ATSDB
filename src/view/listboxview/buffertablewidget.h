@@ -18,7 +18,7 @@
 #ifndef BUFFERTABLEWIDGET_H_
 #define BUFFERTABLEWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include <memory>
 

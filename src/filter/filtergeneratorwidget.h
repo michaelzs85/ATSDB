@@ -18,7 +18,7 @@
 #ifndef FilterGeneratorWidget_H_
 #define FilterGeneratorWidget_H_
 
-#include <QDialog>
+#include <QtWidgets/QDialog>
 #include <vector>
 
 #include "configuration.h"

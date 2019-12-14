@@ -29,7 +29,7 @@
 #include "dbobject.h"
 #include "dbobjectmanager.h"
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 BufferTableModel::BufferTableModel(BufferTableWidget* table_widget, DBObject &object, ListBoxViewDataSource& data_source)
     : QAbstractTableModel(table_widget), table_widget_(table_widget), object_(object), data_source_(data_source)

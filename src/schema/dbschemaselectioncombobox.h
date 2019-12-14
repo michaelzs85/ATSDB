@@ -1,7 +1,7 @@
 #ifndef DBSCHEMASELECTIONCOMBOBOX_H
 #define DBSCHEMASELECTIONCOMBOBOX_H
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 #include "atsdb.h"
 #include "dbschemamanager.h"

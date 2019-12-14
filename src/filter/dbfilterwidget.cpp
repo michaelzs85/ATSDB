@@ -15,11 +15,11 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QAction>
-#include <QWidget>
-#include <QCheckBox>
-#include <QVBoxLayout>
-#include <QPushButton>
+#include <QtWidgets/QAction>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QPushButton>
 
 #include "dbfilterwidget.h"
 #include "dbfilter.h"

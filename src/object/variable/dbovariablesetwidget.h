@@ -20,8 +20,8 @@
 
 class QListWidget;
 
-#include <QWidget>
-#include <QMenu>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QMenu>
 #include "DBOVariableSet.h"
 #include "DBOVariableSelectionWidget.h"
 

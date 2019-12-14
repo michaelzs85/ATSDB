@@ -15,9 +15,9 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
 
 #include "jsondatamappingwidget.h"
 

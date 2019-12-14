@@ -6,7 +6,7 @@
 #include "createartasassociationsstatusdialog.h"
 #include "dbovariableset.h"
 
-#include <QObject>
+#include <QtCore/QObject>
 #include <memory>
 
 class TaskManager;

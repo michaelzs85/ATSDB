@@ -18,7 +18,8 @@
 #ifndef MYSQLSERVERWIDGET_H
 #define MYSQLSERVERWIDGET_H
 
-#include <qwidget.h>
+#include <QtCore/QObject>
+#include <QtWidgets/QWidget>
 
 class MySQLServer;
 class MySQLppConnection;

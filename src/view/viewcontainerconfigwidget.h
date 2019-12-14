@@ -18,7 +18,7 @@
 #ifndef VIEWCONTAINERCONFIGWIDGET_H_
 #define VIEWCONTAINERCONFIGWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class ViewContainer;
 class View;

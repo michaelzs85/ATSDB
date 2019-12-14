@@ -18,7 +18,7 @@
 #ifndef DBOEDITDATASOURCESWIDGET_H
 #define DBOEDITDATASOURCESWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include "dbobject.h"
 
 class DBObject;

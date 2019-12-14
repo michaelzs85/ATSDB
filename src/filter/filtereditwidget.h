@@ -18,7 +18,7 @@
 #ifndef FilterEditWidget_H_
 #define FilterEditWidget_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <vector>
 
 #include "configuration.h"

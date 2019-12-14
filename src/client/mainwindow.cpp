@@ -17,23 +17,23 @@
 
 #include <boost/bind.hpp>
 
-#include <QMenuBar>
-#include <QMessageBox>
-#include <QAction>
-#include <QMoveEvent>
-#include <QResizeEvent>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QLabel>
-#include <QTextEdit>
-#include <QPushButton>
-#include <QCheckBox>
-#include <QStackedWidget>
-#include <QLineEdit>
-#include <QGridLayout>
-#include <QSettings>
-#include <QThread>
-#include <QTabWidget>
+#include <QtWidgets/QMenuBar>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QAction>
+#include <QtGui/QMoveEvent>
+#include <QtGui/QResizeEvent>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QTextEdit>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QStackedWidget>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QGridLayout>
+#include <QtCore/QSettings>
+#include <QtCore/QThread>
+#include <QtWidgets/QTabWidget>
 
 #include "mainwindow.h"
 #include "global.h"

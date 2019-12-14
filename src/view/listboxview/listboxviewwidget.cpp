@@ -15,8 +15,8 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QTabWidget>
-#include <QHBoxLayout>
+#include <QtWidgets/QTabWidget>
+#include <QtWidgets/QHBoxLayout>
 
 
 #include "listboxview.h"

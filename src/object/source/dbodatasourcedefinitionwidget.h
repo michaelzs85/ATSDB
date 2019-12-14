@@ -18,7 +18,7 @@
 #ifndef DBODATASOURCEDEFINITIONWIDGET_H
 #define DBODATASOURCEDEFINITIONWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class QComboBox;
 class DBObject;

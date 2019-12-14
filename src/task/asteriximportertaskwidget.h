@@ -18,7 +18,7 @@
 #ifndef ASTERIXIMPORTERTASKWIDGET_H
 #define ASTERIXIMPORTERTASKWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <memory>
 
 #include <jasterix/jasterix.h>

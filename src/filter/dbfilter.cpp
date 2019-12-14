@@ -17,7 +17,7 @@
 
 #include <boost/algorithm/string.hpp>
 #include <boost/regex.hpp>
-#include <QVBoxLayout>
+#include <QtWidgets/QVBoxLayout>
 
 #include "dbfilter.h"
 #include "dbfilterwidget.h"

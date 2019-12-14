@@ -15,14 +15,14 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QLineEdit>
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QComboBox>
-#include <QPushButton>
-#include <QScrollArea>
-#include <QSettings>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QScrollArea>
+#include <QtCore/QSettings>
 
 #include "configuration.h"
 #include "dbtablewidget.h"

@@ -18,7 +18,8 @@
 #ifndef FILTERMANAGERWIDGET_H
 #define FILTERMANAGERWIDGET_H
 
-#include <QFrame>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
 
 class FilterManager;
 class FilterGeneratorWidget;

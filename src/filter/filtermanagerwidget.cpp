@@ -30,13 +30,13 @@
 #include "dbfilter.h"
 #include "dbfilterwidget.h"
 
-#include <QLabel>
-#include <QPushButton>
-#include <QComboBox>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QInputDialog>
-#include <QStackedWidget>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QStackedWidget>
 
 FilterManagerWidget::FilterManagerWidget(FilterManager &filter_manager, QWidget* parent, Qt::WindowFlags f)
  : QFrame(parent), filter_manager_(filter_manager), filter_generator_widget_(nullptr), add_button_(nullptr)

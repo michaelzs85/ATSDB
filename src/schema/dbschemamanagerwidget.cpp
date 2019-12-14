@@ -28,14 +28,14 @@
 #include "atsdb.h"
 #include "dbinterface.h"
 
-#include <QLabel>
-#include <QPushButton>
-#include <QComboBox>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QInputDialog>
-#include <QStackedWidget>
-#include <QMessageBox>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QStackedWidget>
+#include <QtWidgets/QMessageBox>
 
 DBSchemaManagerWidget::DBSchemaManagerWidget(DBSchemaManager &manager, QWidget* parent, Qt::WindowFlags f)
  : QFrame(parent), manager_(manager)

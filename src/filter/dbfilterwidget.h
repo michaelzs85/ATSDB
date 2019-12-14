@@ -18,8 +18,8 @@
 #ifndef DBFILTERWIDGET_H_
 #define DBFILTERWIDGET_H_
 
-#include <QFrame>
-#include <QMenu>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QMenu>
 
 #include "configurable.h"
 

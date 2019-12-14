@@ -18,7 +18,7 @@
 #ifndef RADARPLOTPOSITIONCALCULATORTASKWIDGET_H_
 #define RADARPLOTPOSITIONCALCULATORTASKWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class Buffer;
 class QLabel;

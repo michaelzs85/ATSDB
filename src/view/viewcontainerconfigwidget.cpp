@@ -22,10 +22,10 @@
 #include "global.h"
 #include "files.h"
 
-#include <QLabel>
-#include <QVBoxLayout>
-#include <QToolButton>
-#include <QMessageBox>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QToolButton>
+#include <QtWidgets/QMessageBox>
 
 using namespace Utils;
 

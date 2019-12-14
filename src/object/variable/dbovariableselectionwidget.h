@@ -20,8 +20,8 @@
 #define DBOVARIABLESELECTIONWIDGET_H
 
 
-#include <QFrame>
-#include <QMenu>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QMenu>
 
 class QPushButton;
 class QLabel;

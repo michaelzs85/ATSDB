@@ -17,18 +17,18 @@
 
 #include "dbschemawidget.h"
 
-#include <QVBoxLayout>
-#include <QLabel>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QLineEdit>
-#include <QFrame>
-#include <QPushButton>
-#include <QLayoutItem>
-#include <QComboBox>
-#include <QScrollArea>
-#include <QInputDialog>
-#include <QCheckBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QLayoutItem>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QScrollArea>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QCheckBox>
 
 #include "dbschemawidget.h"
 #include "dbschemamanager.h"

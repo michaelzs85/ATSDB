@@ -15,8 +15,8 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QWidget>
-#include <QMessageBox>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QMessageBox>
 
 #include <cassert>
 

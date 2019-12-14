@@ -1,6 +1,6 @@
 
-#include <QSurfaceFormat>
-#include <QMessageBox>
+#include <QtGui/QSurfaceFormat>
+#include <QtWidgets/QMessageBox>
 
 #include <iostream>
 #include <cstdlib>

@@ -6,7 +6,7 @@
 #include <jasterix/jasterix.h>
 #include <jasterix/spfedition.h>
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 #include <memory>
 

@@ -31,7 +31,7 @@
 #include "listboxviewdatasource.h"
 #include "allbuffertablewidget.h"
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 AllBufferTableModel::AllBufferTableModel(AllBufferTableWidget* table_widget, ListBoxViewDataSource& data_source)
     : QAbstractTableModel(table_widget), table_widget_(table_widget), data_source_(data_source)

@@ -18,8 +18,9 @@
 #ifndef DBINTERFACEWIDGET_H_
 #define DBINTERFACEWIDGET_H_
 
-#include <QFrame>
-#include <QComboBox>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QComboBox>
 
 class DBInterface;
 class QStackedWidget;

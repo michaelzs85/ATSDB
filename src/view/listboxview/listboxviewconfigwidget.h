@@ -18,7 +18,7 @@
 #ifndef LISTBOXVIEWCONFIGWIDGET_H_
 #define LISTBOXVIEWCONFIGWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include "dbovariable.h"
 
 class DBOVariableOrderedSetWidget;

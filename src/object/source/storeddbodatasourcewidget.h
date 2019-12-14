@@ -20,7 +20,7 @@
 
 #include "storeddbodatasource.h"
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class QLineEdit;
 class InvalidQLineEdit;

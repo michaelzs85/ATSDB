@@ -18,8 +18,9 @@
 #ifndef VIEWSWIDGET_H_
 #define VIEWSWIDGET_H_
 
-#include <QFrame>
-#include <QStringList>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
+#include <QtCore/QStringList>
 #include <map>
 
 class ViewManager;

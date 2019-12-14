@@ -19,10 +19,10 @@
 #include "mysqlserver.h"
 #include "logger.h"
 
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
 
 MySQLppConnectionInfoWidget::MySQLppConnectionInfoWidget(MySQLppConnection &connection, QWidget *parent)
     : QWidget(parent), connection_(connection), server_(nullptr), database_(nullptr), status_(nullptr)

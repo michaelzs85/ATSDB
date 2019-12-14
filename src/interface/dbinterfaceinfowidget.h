@@ -18,8 +18,9 @@
 #ifndef DBINTERFACEINFOWIDGET_H_
 #define DBINTERFACEINFOWIDGET_H_
 
-#include <QFrame>
-#include <QComboBox>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
+#include <QtWidgets/QComboBox>
 
 class DBInterface;
 class QVBoxLayout;

@@ -18,7 +18,7 @@
 #ifndef ASTERIXCONFIGWIDGET_H
 #define ASTERIXCONFIGWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include <memory>
 
 #include <jasterix/jasterix.h>

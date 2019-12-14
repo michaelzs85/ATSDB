@@ -24,8 +24,8 @@
 
 #include <list>
 #include <memory>
-#include <QMutex>
-#include <QThread>
+#include <QtCore/QMutex>
+#include <QtCore/QThread>
 
 #include <tbb/concurrent_queue.h>
 

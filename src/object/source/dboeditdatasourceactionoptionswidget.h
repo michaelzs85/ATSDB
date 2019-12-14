@@ -21,7 +21,7 @@
 #include "dboeditdatasourceactionoptions.h"
 
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 
 class DBOEditDataSourceActionOptions;

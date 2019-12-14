@@ -17,7 +17,7 @@
 
 #include <cstring>
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 #include "property.h"
 #include "buffer.h"

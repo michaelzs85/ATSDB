@@ -1,7 +1,7 @@
 ﻿#ifndef CREATEARTASASSOCIATIONSSTATUSDIALOG_H
 #define CREATEARTASASSOCIATIONSSTATUSDIALOG_H
 
-#include <QDialog>
+#include <QtWidgets/QDialog>
 
 #include "boost/date_time/posix_time/posix_time.hpp"
 

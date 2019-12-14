@@ -18,7 +18,7 @@
 #ifndef LISTBOXVIEWDATASOURCE_H_
 #define LISTBOXVIEWDATASOURCE_H_
 
-#include <QObject>
+#include <QtCore/QObject>
 
 #include "dbovariable.h"
 #include "dbovariableorderedset.h"

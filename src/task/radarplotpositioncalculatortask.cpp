@@ -31,9 +31,9 @@
 #include "projectionmanager.h"
 #include "stringconv.h"
 
-#include <QCoreApplication>
-#include <QMessageBox>
-#include <QApplication>
+#include <QtCore/QCoreApplication>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QApplication>
 
 using namespace Utils;
 

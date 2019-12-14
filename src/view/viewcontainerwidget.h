@@ -18,7 +18,7 @@
 #ifndef VIEWCONTAINERWIDGET_H_
 #define VIEWCONTAINERWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include "configurable.h"
 

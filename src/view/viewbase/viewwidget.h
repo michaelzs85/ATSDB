@@ -21,7 +21,7 @@
 #include "viewselection.h"
 #include "configurable.h"
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class EventProcessor;
 class View;

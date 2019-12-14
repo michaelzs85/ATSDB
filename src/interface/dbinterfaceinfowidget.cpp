@@ -15,10 +15,10 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QGridLayout>
-#include <QHBoxLayout>
-#include <QLabel>
-#include <QTextEdit>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QTextEdit>
 
 #include "atsdb.h"
 #include "dbconnection.h"

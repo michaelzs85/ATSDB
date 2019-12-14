@@ -20,7 +20,7 @@
 
 #include "dbodatasource.h"
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class QLineEdit;
 class QGridLayout;

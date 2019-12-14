@@ -18,7 +18,7 @@
 #ifndef DBOOBJECTCOMBOBOX_H
 #define DBOOBJECTCOMBOBOX_H
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 #include "atsdb.h"
 #include "dbobjectmanager.h"

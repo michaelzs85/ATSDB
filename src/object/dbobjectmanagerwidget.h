@@ -18,7 +18,8 @@
 #ifndef DBOBJECTMANAGERWIDGET_H_
 #define DBOBJECTMANAGERWIDGET_H_
 
-#include <QFrame>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
 #include <map>
 
 class DBObject;

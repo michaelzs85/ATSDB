@@ -15,10 +15,10 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QComboBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QComboBox>
 
 #include "dbodatasourcedefinitionwidget.h"
 #include "dbobject.h"

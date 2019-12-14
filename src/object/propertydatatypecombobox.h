@@ -18,7 +18,7 @@
 #ifndef PROPERTYDATATYPECOMBOBOX_H_
 #define PROPERTYDATATYPECOMBOBOX_H_
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 #include <stdexcept>
 
 #include "DBOVariable.h"

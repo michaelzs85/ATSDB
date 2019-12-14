@@ -21,7 +21,7 @@
 #include <map>
 #include <vector>
 #include <string>
-#include <QObject>
+#include <QtCore/QObject>
 
 #include "singleton.h"
 #include "configurable.h"

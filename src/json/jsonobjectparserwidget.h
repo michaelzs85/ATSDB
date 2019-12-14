@@ -18,7 +18,7 @@
 #ifndef JSONOBJECTPARSERWIDGET_H
 #define JSONOBJECTPARSERWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class JSONObjectParser;
 class QLineEdit;

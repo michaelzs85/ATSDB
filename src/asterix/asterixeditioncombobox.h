@@ -23,7 +23,7 @@
 #include <jasterix/jasterix.h>
 #include <jasterix/category.h>
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 #include <memory>
 

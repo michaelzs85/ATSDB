@@ -1,7 +1,7 @@
 #ifndef DBODATASOURCESELECTIONCOMBOBOX_H
 #define DBODATASOURCESELECTIONCOMBOBOX_H
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 #include "atsdb.h"
 #include "dbobjectmanager.h"

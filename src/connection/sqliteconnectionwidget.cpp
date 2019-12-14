@@ -20,17 +20,17 @@
 #include "mysqlserver.h"
 #include "logger.h"
 
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QComboBox>
-#include <QPushButton>
-#include <QLabel>
-#include <QInputDialog>
-#include <QStackedWidget>
-#include <QListWidget>
-#include <QFileDialog>
-#include <QMessageBox>
-#include <QApplication>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QInputDialog>
+#include <QtWidgets/QStackedWidget>
+#include <QtWidgets/QListWidget>
+#include <QtWidgets/QFileDialog>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QApplication>
 
 SQLiteConnectionWidget::SQLiteConnectionWidget(SQLiteConnection &connection, QWidget *parent)
     : QWidget(parent), connection_(connection)

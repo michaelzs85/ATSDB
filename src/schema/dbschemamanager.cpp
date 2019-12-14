@@ -28,7 +28,7 @@
 #include "dbinterface.h"
 #include "dbobjectmanager.h"
 
-#include <QApplication>
+#include <QtWidgets/QApplication>
 
 /**
  * Registers current_schema as parameter, creates sub-configurables (schemas), checks if current_schema exists (if defined).

@@ -1,7 +1,7 @@
 #ifndef SQLiteCONNECTIONWIDGET_H
 #define SQLiteCONNECTIONWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class SQLiteConnection;
 class QComboBox;

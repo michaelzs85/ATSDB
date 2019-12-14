@@ -18,7 +18,7 @@
 #ifndef DBODATASOURCEDEFINITION_H
 #define DBODATASOURCEDEFINITION_H
 
-#include <QObject>
+#include <QtCore/QObject>
 #include "configurable.h"
 
 class DBObject;

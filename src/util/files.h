@@ -1,7 +1,7 @@
 #ifndef FILES_H
 #define FILES_H
 
-#include <QDir>
+#include <QtCore/QDir>
 
 #include "global.h"
 

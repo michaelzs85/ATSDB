@@ -1,7 +1,7 @@
 #ifndef ASTERIXSTATUSDIALOG_H
 #define ASTERIXSTATUSDIALOG_H
 
-#include <QDialog>
+#include <QtWidgets/QDialog>
 
 #include "boost/date_time/posix_time/posix_time.hpp"
 

@@ -21,10 +21,10 @@
 #include "logger.h"
 #include "stringconv.h"
 
-#include <QTabWidget>
-#include <QVBoxLayout>
-#include <QMoveEvent>
-#include <QResizeEvent>
+#include <QtWidgets/QTabWidget>
+#include <QtWidgets/QVBoxLayout>
+#include <QtGui/QMoveEvent>
+#include <QtGui/QResizeEvent>
 
 using namespace Utils;
 

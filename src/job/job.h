@@ -18,8 +18,8 @@
 #ifndef JOB_H_
 #define JOB_H_
 
-#include <QObject>
-#include <QRunnable>
+#include <QtCore/QObject>
+#include <QtCore/QRunnable>
 #include <memory>
 
 /**

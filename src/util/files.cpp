@@ -4,9 +4,9 @@
 #include <stdexcept>
 #include <iostream>
 
-#include <QFileInfo>
-#include <QString>
-#include <QDir>
+#include <QtCore/QFileInfo>
+#include <QtCore/QString>
+#include <QtCore/QDir>
 
 std::string CURRENT_CONF_DIRECTORY;
 

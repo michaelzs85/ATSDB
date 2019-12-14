@@ -20,7 +20,7 @@
 
 #include "configurable.h"
 
-#include <qobject.h>
+#include <QtCore/QObject>
 #include <cassert>
 
 class DBTable;

@@ -40,11 +40,11 @@
 #include <memory>
 #include <algorithm>
 
-#include <QDateTime>
-#include <QCoreApplication>
-#include <QThread>
-#include <QMessageBox>
-#include <QApplication>
+#include <QtCore/QDateTime>
+#include <QtCore/QCoreApplication>
+#include <QtCore/QThread>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QApplication>
 
 using namespace Utils;
 using namespace nlohmann;

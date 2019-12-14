@@ -15,9 +15,9 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QPushButton>
-#include <QGridLayout>
-#include <QCheckBox>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QCheckBox>
 
 #include "datasourcesfilterwidget.h"
 #include "filtermanager.h"

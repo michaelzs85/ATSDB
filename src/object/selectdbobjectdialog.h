@@ -18,12 +18,12 @@
 #ifndef SELECTDBOBJECTDIALOG_H
 #define SELECTDBOBJECTDIALOG_H
 
-#include <QDialogButtonBox>
-#include <QGridLayout>
-#include <QComboBox>
-#include <QLabel>
-#include <QDialog>
-#include <QLineEdit>
+#include <QtWidgets/QDialogButtonBox>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QComboBox>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QDialog>
+#include <QtWidgets/QLineEdit>
 
 #include "dbobjectcombobox.h"
 

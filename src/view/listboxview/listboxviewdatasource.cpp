@@ -26,7 +26,7 @@
 #include "job.h"
 
 
-#include <QMessageBox>
+#include <QtWidgets/QMessageBox>
 
 ListBoxViewDataSource::ListBoxViewDataSource(const std::string& class_id, const std::string& instance_id,
                                              Configurable* parent)

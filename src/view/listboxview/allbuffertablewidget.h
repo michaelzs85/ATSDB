@@ -18,7 +18,7 @@
 #ifndef ALLBUFFERTABLEWIDGET_H_
 #define ALLBUFFERTABLEWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include <memory>
 

@@ -19,9 +19,9 @@
 #include "invalidqlineedit.h"
 #include "logger.h"
 
-#include <QGridLayout>
-#include <QLabel>
-#include <QLineEdit>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QLineEdit>
 
 DBODataSourceWidget::DBODataSourceWidget(DBODataSource& data_source, bool add_headers,
                                          QWidget* parent, Qt::WindowFlags f)

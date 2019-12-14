@@ -16,12 +16,12 @@
  */
 
 
-#include <QVBoxLayout>
-#include <QLabel>
-#include <QPushButton>
-#include <QMenu>
-#include <QAction>
-#include <QVariant>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QMenu>
+#include <QtWidgets/QAction>
+#include <QtCore/QVariant>
 
 #include "viewmanagerwidget.h"
 #include "viewmanager.h"

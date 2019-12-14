@@ -18,7 +18,8 @@
 #ifndef MAINWINDOW_H_
 #define MAINWINDOW_H_
 
-#include <QMainWindow>
+#include <QtCore/QObject>
+#include <QtWidgets/QMainWindow>
 
 #include "global.h"
 

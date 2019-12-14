@@ -18,12 +18,12 @@
 
 //#include <iostream>
 
-#include <QTableView>
-#include <QVBoxLayout>
-#include <QClipboard>
-#include <QKeyEvent>
-#include <QApplication>
-#include <QFileDialog>
+#include <QtWidgets/QTableView>
+#include <QtWidgets/QVBoxLayout>
+#include <QtGui/QClipboard>
+#include <QtGui/QKeyEvent>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QFileDialog>
 
 #include "boost/date_time/posix_time/posix_time.hpp"
 

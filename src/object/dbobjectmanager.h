@@ -19,7 +19,7 @@
 #define DBOBJECTMANAGER_H_
 
 #include <vector>
-#include <qobject.h>
+#include <QtCore/QObject>
 
 #include "singleton.h"
 #include "configurable.h"

@@ -19,7 +19,7 @@
 #define DBODATASOURCE_H
 
 #include <memory>
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include "rs2g.h"
 #include "geomap.h"

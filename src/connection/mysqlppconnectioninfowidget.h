@@ -18,7 +18,8 @@
 #ifndef MYSQLPPCONNECTIONINFOWIDGET_H
 #define MYSQLPPCONNECTIONINFOWIDGET_H
 
-#include <QWidget>
+#include <QtCore/QObject>
+#include <QtWidgets/QWidget>
 
 class MySQLppConnection;
 class QLabel;

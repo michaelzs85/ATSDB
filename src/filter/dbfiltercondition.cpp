@@ -18,10 +18,10 @@
 #include <sstream>
 #include <cassert>
 
-#include <QHBoxLayout>
-#include <QWidget>
-#include <QLineEdit>
-#include <QLabel>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QLabel>
 
 #include <boost/algorithm/string/join.hpp>
 //#include <boost/algorithm/string.hpp>

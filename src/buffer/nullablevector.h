@@ -29,7 +29,7 @@
 
 #include <tbb/tbb.h>
 
-#include <QDateTime>
+#include <QtCore/QDateTime>
 
 #include "stringconv.h"
 #include "buffer.h"

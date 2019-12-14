@@ -27,11 +27,11 @@
 #include "projectionmanagerwidget.h"
 #include "dbobjectmanager.h"
 
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QPushButton>
-#include <QMessageBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QMessageBox>
 
 using namespace Utils::String;
 

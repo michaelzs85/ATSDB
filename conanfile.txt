@@ -1,7 +1,17 @@
+# conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan
+# conan remote add osechet https://api.bintray.com/conan/osechet/public-conan
+# conan remote add nicolastagliani https://api.bintray.com/conan/nicolastagliani/tinyxml2
+
 [requires]
 zlib/1.2.11@conan/stable
 bzip2/1.0.8@conan/stable
-boost/1.71.0@conan/stable
+libselinux/2.9@bincrafters/stable
+xorgproto/2019.1@bincrafters/stable
+#boost/1.71.0@conan/stable
+boost_any/1.69.0@bincrafters/stable
+boost_program_options/1.69.0@bincrafters/stable
+boost_date_time/1.69.0@bincrafters/stable
+boost_assign/1.69.0@bincrafters/stable
 eigen/3.3.7@conan/stable
 sqlite3/3.29.0@bincrafters/stable
 libarchive/3.4.0
@@ -9,12 +19,17 @@ openssl/1.1.1d
 qt/5.13.2@bincrafters/stable
 TBB/2019_U9@conan/stable
 GDAL/2.1.3@osechet/testing
-
+tinyxml2/7.1.0@nicolastagliani/stable
 
 [options]
+*:shared=True
 TBB:shared=True
+qt:shared=True  
+boost_program_options:shared=True
+libxcb:shared=True
 
 
 [generators]
-visual_studio
-cmake
+cmake_find_package
+cmake_paths
+

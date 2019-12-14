@@ -19,10 +19,10 @@
 #include "sqliteconnection.h"
 #include "logger.h"
 
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
 
 SQLiteConnectionInfoWidget::SQLiteConnectionInfoWidget(SQLiteConnection& connection, QWidget* parent)
     : QWidget(parent), connection_(connection)

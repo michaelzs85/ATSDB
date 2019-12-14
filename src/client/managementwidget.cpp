@@ -15,10 +15,10 @@
  * along with ATSDB.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QResizeEvent>
-#include <QPushButton>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
+#include <QtGui/QResizeEvent>
+#include <QtWidgets/QPushButton>
 
 #include "managementwidget.h"
 #include "atsdb.h"

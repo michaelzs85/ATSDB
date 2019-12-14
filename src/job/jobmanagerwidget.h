@@ -18,7 +18,7 @@
 #ifndef JOBMANAGERWIDGET_H_
 #define JOBMANAGERWIDGET_H_
 
-#include <QFrame>
+#include <QtWidgets/QFrame>
 #include <map>
 
 class Job;

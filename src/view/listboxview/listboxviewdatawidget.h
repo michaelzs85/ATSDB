@@ -18,7 +18,7 @@
 #ifndef LISTBOXVIEWDATAWIDGET_H_
 #define LISTBOXVIEWDATAWIDGET_H_
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 #include <memory>
 

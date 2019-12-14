@@ -16,15 +16,14 @@
  */
 
 #include "global.h"
-#include "logger.h"
 #include "client.h"
 #include "config.h"
 #include "logger.h"
 #include "files.h"
 #include "configurationmanager.h"
 
-#include <QApplication>
-#include <QMessageBox>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QMessageBox>
 
 #include <boost/filesystem.hpp>
 #include <boost/program_options.hpp>

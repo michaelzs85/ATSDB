@@ -17,11 +17,11 @@
 
 #include "boost/date_time/posix_time/posix_time.hpp"
 
-#include <QMutexLocker>
-#include <QMessageBox>
-#include <QThread>
-#include <QProgressDialog>
-#include <QApplication>
+#include <QtCore/QMutexLocker>
+#include <QtWidgets/QMessageBox>
+#include <QtCore/QThread>
+#include <QtWidgets/QProgressDialog>
+#include <QtWidgets/QApplication>
 
 #include "atsdb.h"
 #include "buffer.h"

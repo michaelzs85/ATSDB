@@ -19,8 +19,8 @@
 #define DBOLABELDEFINITIONWIDGET_H
 
 
-#include <QWidget>
-#include <QStringList>
+#include <QtWidgets/QWidget>
+#include <QtCore/QStringList>
 
 #include "dbolabeldefinition.h"
 

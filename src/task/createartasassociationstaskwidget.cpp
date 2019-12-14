@@ -6,13 +6,13 @@
 #include "metadbovariable.h"
 #include "logger.h"
 
-#include <QVBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QPushButton>
-#include <QMessageBox>
-#include <QLineEdit>
-#include <QCheckBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QGridLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QMessageBox>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QCheckBox>
 
 CreateARTASAssociationsTaskWidget::CreateARTASAssociationsTaskWidget(CreateARTASAssociationsTask& task, QWidget* parent,
                                                                      Qt::WindowFlags f)

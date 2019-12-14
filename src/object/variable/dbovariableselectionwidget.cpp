@@ -25,9 +25,9 @@
 #include "files.h"
 #include "global.h"
 
-#include <QPushButton>
-#include <QLabel>
-#include <QGridLayout>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QGridLayout>
 
 using namespace Utils;
 

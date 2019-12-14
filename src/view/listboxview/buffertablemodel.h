@@ -22,7 +22,7 @@
 
 #include <memory>
 
-#include <QAbstractTableModel>
+#include <QtCore/QAbstractTableModel>
 
 class Buffer;
 class DBObject;

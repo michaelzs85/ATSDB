@@ -18,8 +18,8 @@
 #ifndef VIEWCONTAINER_H
 #define VIEWCONTAINER_H
 
-#include <QObject>
-#include <QMenu>
+#include <QtCore/QObject>
+#include <QtWidgets/QMenu>
 
 #include "configurable.h"
 

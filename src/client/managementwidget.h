@@ -18,7 +18,8 @@
 #ifndef MANAGEMENTWIDGET_H_
 #define MANAGEMENTWIDGET_H_
 
-#include <QWidget>
+#include <QtCore/QObject>
+#include <QtWidgets/QWidget>
 
 //class FilterConfigWidget;
 //class DBInfoWidget;

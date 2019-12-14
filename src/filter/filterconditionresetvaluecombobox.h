@@ -18,8 +18,8 @@
 #ifndef FILTERCONDITIONRESETVALUECOMBOBOX_H_
 #define FILTERCONDITIONRESETVALUECOMBOBOX_H_
 
-#include <QComboBox>
-#include <QList>
+#include <QtWidgets/QComboBox>
+#include <QtCore/QList>
 
 class FilterConditionResetValueComboBox : public QComboBox
 {

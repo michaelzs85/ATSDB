@@ -1,7 +1,7 @@
 #ifndef SQLiteCONNECTIONINFOWIDGET_H
 #define SQLiteCONNECTIONINFOWIDGET_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 class SQLiteConnection;
 class QLabel;

@@ -22,7 +22,7 @@
 
 #include <jasterix/jasterix.h>
 
-#include <QComboBox>
+#include <QtWidgets/QComboBox>
 
 class ASTERIXFramingComboBox: public QComboBox
 {

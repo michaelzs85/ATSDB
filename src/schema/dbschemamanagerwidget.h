@@ -18,7 +18,8 @@
 #ifndef DBSCHEMAMANAGERWIDGET_H
 #define DBSCHEMAMANAGERWIDGET_H
 
-#include <QFrame>
+#include <QtCore/QObject>
+#include <QtWidgets/QFrame>
 
 class DBSchemaManager;
 
